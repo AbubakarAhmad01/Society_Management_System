@@ -1,0 +1,20 @@
+LINKS AND USERNAME ALONG WITH THE PASSWORDS-
+
+SQL SERVER LINK-
+http://localhost/phpmyadmin/index.php
+
+HOMEPAGE -
+Localhost/society management system/society.php
+
+ADMIN LOGIN PAGE-
+http://localhost/society%20management%20system/sms/admin/index.php
+
+USER LOGIN PAGE-
+http://localhost/society%20management%20system/sms/users/index.php
+
+
+ADMIN USERNAME- admin
+ADMIN PASSWORD- admin@1234
+
+USER LOGIN NAME- aakash@gmail.com
+USER PASSWORD- 0123
